@@ -1,7 +1,7 @@
 {
-    "name": "league/glide-symfony",
+    "name": "adamale/glide-symfony",
     "description": "Glide adapter for Symfony",
-    "homepage": "http://glide.thephpleague.com",
+    "homepage": "https://github.com/adamale/glide-symfony",
     "license": "MIT",
     "authors" : [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "league/glide": "^1.0",
+        "adamale/glide": "^1.0",
         "symfony/http-foundation": "^2.3|^3.0|^4.0|^5.0"
     },
     "require-dev": {
